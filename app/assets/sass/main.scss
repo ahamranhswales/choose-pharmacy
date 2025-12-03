@@ -11,3 +11,13 @@
     position: absolute;
     height: 100%
 };
+
+.nhsuk-header__service-name
+{
+    margin-top: 1em;
+}
+
+.nhsuk-header__service-logo:only-child
+{
+    display: block;
+}
