@@ -2,3 +2,12 @@
 @import "nhsuk-frontend/dist/nhsuk";
 
 // Add your custom CSS/Sass styles below.
+
+.nhsuk-header
+{
+    background-color: #1B365D;
+    width: 400px;
+    float: left;
+    position: absolute;
+    height: 100%
+};
